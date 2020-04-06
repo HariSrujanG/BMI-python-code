@@ -1,5 +1,5 @@
 # BMI-python-code
-#A simple python code to check our BMI with height and weight as inputs.
+#A simple python code to check BMI with height and weight as inputs.
 
 wt = float(input("Enter your weight(in Kg): "))
 ht = float(input("Enter your hieght(in  m): "))
