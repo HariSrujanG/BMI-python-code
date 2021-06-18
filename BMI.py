@@ -3,8 +3,8 @@ def bmi(ht,wt):
     return bmi
 
 def main():
-    a=float(input("Enter H: "))
-    b=float(input("Enter W: "))
+    a=float(input("Enter Hieght in meters: "))
+    b=float(input("Enter Weight in Kgs: "))
     n = bmi(a,b)
     print(n)
     if(18.5 < n and n >= 24.9 ):
